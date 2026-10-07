@@ -4,7 +4,7 @@ I'm a Computer Science student at UiTM with an interest in software development,
 
 ## About me
 - Studying: Bachelor of Computer Science (Hons.), UiTM
-- Currently learning: Java, Python, Software Engineering, Data Mining, Machine Learning, and Parallel Computing
+- Currently learning: Java, Software Engineering, Data Mining and Parallel Computing
 - My FYP area: Artificial Intelligence / Machine Learning
 
 ## Skills and tools
