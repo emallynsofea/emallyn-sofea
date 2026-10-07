@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Emallyn Sofea
 
-<!--
-**emallyn-sofea/emallyn-sofea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student at UiTM with an interest in software development, artificial intelligence, and machine learning.
 
-Here are some ideas to get you started:
+## About me
+- Studying: Bachelor of Computer Science (Hons.), UiTM
+- Currently learning: Java, Python, Software Engineering, Data Mining, Machine Learning, and Parallel Computing
+- My FYP area: Artificial Intelligence / Machine Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills and tools
+Programming: Java, C++, SQL
+Development: NetBeans
+AI / Machine Learning: TensorFlow, Keras, Machine Learning fundamentals
+
+## Projects
+- BrewBase : A university cafeteria ordering system developed as part of a software engineering / enterprise programming project.
+- Hotel Management System : C++ system for managing rooms, bookings, guests and hotel services.
+  
+## Contact
+- LinkedIn: https://www.linkedin.com/in/emallyn-sofea-238312417
+- Email: emallynsofea585@gmail.com
