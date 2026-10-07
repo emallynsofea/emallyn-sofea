@@ -8,9 +8,9 @@ I'm a Computer Science student at UiTM with an interest in software development,
 - My FYP area: Artificial Intelligence / Machine Learning
 
 ## Skills and tools
-Programming: Java, C++, SQL
-Development: NetBeans
-AI / Machine Learning: TensorFlow, Keras, Machine Learning fundamentals
+- Programming: Java, C++, SQL
+- Development: NetBeans
+- AI / Machine Learning: TensorFlow, Keras, Machine Learning fundamentals
 
 ## Projects
 - BrewBase : A university cafeteria ordering system developed as part of a software engineering / enterprise programming project.
